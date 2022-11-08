@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering and Data Analytics
 - 🌱 I’m currently learning SQL, Python and Power BI
 - 💞️ I’m looking to collaborate on Data Analysis for Market Strategy and Client Facing Porjects
-- 📫 How to reach me - 
+- 📫 How to reach me - Twitter @uncanny_llama
 
 <!---
 adityavp36/adityavp36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
