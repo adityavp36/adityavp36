@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @adityavp36
-- 👀 I’m interested in Data Engineering and Data Analytics
-- 🌱 I’m currently learning SQL, Python and Power BI
-- 💞️ I’m looking to collaborate on Data Analysis for Market Strategy and Client Facing Porjects
+- 👋 Hi, I’m Aditya Pandey
+- 👀 I’m interested in Business Solutions harnessing the power of Analytics
+- 🌱 I’m currently learning Python, SQL, and Power BI
+- 💞️ I’m looking to collaborate on Data Analysis for, Business Optimization, Market Strategy and Client Facing Projects
 - 📫 How to reach me - Twitter @uncanny_llama
 
 <!---
